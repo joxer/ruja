@@ -1,0 +1,13 @@
+
+class Query
+  
+  URL = "http://api.jamendo.com/get2/"
+
+
+  def self.get_by_artist(what, parameters = "")
+
+    
+
+  end
+
+end
